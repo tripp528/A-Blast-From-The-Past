@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.8)
+project(A-Blast-from-the-Past)
+
+set(CMAKE_CXX_STANDARD 14)
+
+set(SOURCE_FILES main.cpp LaserBullet.cpp LaserBullet.h
+        AbstractCreature.h AbstractCreature.cpp Blaster.h Blaster.cpp
+        Object.h Object.cpp Player.cpp Player.h Alien.cpp Alien.h)
+add_executable(A-Blast-from-the-Past ${SOURCE_FILES})

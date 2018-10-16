@@ -1,0 +1,122 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/AbstractCreature.cpp
+AbstractCreature.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/AbstractCreature.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/AbstractCreature.h
+LaserBullet.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/LaserBullet.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Alien.cpp
+Alien.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Alien.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Alien.h
+AbstractCreature.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/AbstractCreature.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Block.cpp
+Block.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Block.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Block.h
+LaserBullet.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/LaserBullet.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Button.cpp
+Button.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Button.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Button.h
+Object.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Object.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/LaserBullet.cpp
+LaserBullet.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/LaserBullet.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/LaserBullet.h
+Object.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Object.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Object.cpp
+Object.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Object.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Object.h
+iostream
+-
+graphics.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/graphics.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Player.cpp
+Player.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Player.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Player.h
+AbstractCreature.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/AbstractCreature.h
+fstream
+-
+Block.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Block.h
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Shape.cpp
+graphics.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/graphics.h
+Shape.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Shape.h
+thread
+-
+chrono
+-
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Shape.h
+iostream
+-
+cmath
+-
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/graphics.cpp
+stdlib.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/stdlib.h
+Player.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Player.h
+Alien.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Alien.h
+Shape.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Shape.h
+Button.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Button.h
+vector
+-
+map
+-
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/graphics.h
+GLUT/glut.h
+-
+GL/glut.h
+-
+
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/main.cpp
+vector
+-
+map
+-
+LaserBullet.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/LaserBullet.h
+Player.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Player.h
+Alien.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/Alien.h
+graphics.h
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/graphics.h
+

@@ -1,0 +1,3 @@
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tripp/LocalsOnly/work-Old/School/Previous HW/HW second year/first sem/C++/A-Blast-from-the-Past/cmake-build-debug/CMakeFiles/main.cpp.dir
